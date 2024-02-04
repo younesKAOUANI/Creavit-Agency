@@ -1,0 +1,21 @@
+{
+  "name": "creavit-agency",
+  "version": "1.0.0",
+  "description": "Web Developement agency",
+  "main": "index.html",
+  "scripts": {
+    "gulp": "gulp",
+    "watch": "gulp watch",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CreavIT Agency",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0"
+  },
+  "dependencies": {
+    "sass": "^1.70.0",
+    "scss": "^0.2.4"
+  }
+}
